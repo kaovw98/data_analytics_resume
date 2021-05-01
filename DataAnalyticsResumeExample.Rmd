@@ -172,35 +172,43 @@ Medford, MA
 Feb--May 2021
 
 <!--::: concise-->
-- Deployed a project which predicted likelihood of house purchase with 89% accuracy on data from Boston in 2019.
-- Iterated the model to select the best approach, given neural net, random forest and logistic regression.
+- Developed a non-profit organization system that builds up the identity and confidence of Asian American youth
+- Collaborated with Asian-ethnic cultural organizations to exchange cultural knowledge among 4th-8th grade children
+- Created a cultural exchange program to develop pan-Asian understanding and unity
 <!--:::-->
 
 
+### Undergraduate Mechanical Engineering Honors Paper
 
+United States Military Academy, West Point
 
-### Other project
+West Point, NY
 
-Tufts University
+Jan--May 2020
 
-Medford, MA
-
-2015 -- 2018
-
-- Evaluated 
-- Deployed
-- Managed 
-- Use your action verbs! Attend the Crafting Your Data Science Resume workshop by Kyle Monahan
+<!--::: concise-->
+- Optimized hypersonic interceptor employment and trajectory solutions to defeat hypersonic penetrators
+- Developed a MATLAB code to identify ideal intercept conditions at various parametrized flight conditions in the atmosphere
+- Recommended future missile defense solutions to counter future missile threats
+<!--:::-->
 
 
 
 Selected Presentations {data-icon=comment-alt}
 --------------------------------------------------------------------------------
-### DATA-200 Final Project
-Presented a model for housing price detection, and summarized main results and assumptions of the model to my cohort. 
+### Lincoln Laboratory Group 31 Seminar
+Presented the history, culture, and structure of cadet lifestyle at the United States Military Academy at West Point
 
-Medford, MA
+Lexington, MA
 
-March 2019
+Aug 2020
+
+
+### International Mechanical Engineering Congress and Exposition (IMECE)
+Presented aeroacoustic sampling and calibration results from a vertical rotor model under ground and wall reflection conditions
+
+Salt Lake City, UT
+
+Nov 2019
 
 

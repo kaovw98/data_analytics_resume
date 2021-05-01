@@ -1,6 +1,6 @@
 ---
-title: "Kyle Monahan"
-author: Kyle M Monahan
+title: "Victor Kao Resume"
+author: Victor Kao
 date: "`r Sys.Date()`"
 output:
   pagedown::html_resume:
@@ -20,26 +20,29 @@ Aside
 Contact Info {#contact}
 --------------------------------------------------------------------------------
 
-- <i class="fa fa-envelope"></i>kyle.monahan@tufts.edu
-- <i class="fa fa-github"></i> [github.com/kylemonahan/](https://github.com/kylemonahan/)
-- <i class="fa fa-phone"></i> +1 123-456-7891
+- <i class="fa fa-envelope"></i>kaovw98@gmail.com
+- <i class="fa fa-github"></i> [github.com/kaovw98/](https://github.com/kaovw98/)
+- <i class="fa fa-phone"></i> +1 240-694-5849
 
 
 Skills {#skills}
 --------------------------------------------------------------------------------
 
-- Experienced in running multivariate regression. 
-
-- List your **key skills**, linked to the job description.
-
-- Performing **data analysis**, with a focus on engineering models
+- Performed **data analysis**, with a focus on engineering models
 
 - Experienced in **data communication** and client relations
 
-- Wrote production-level **R/Python/Stata/SQL** 
+- Proficient with Microsoft Word, Excel, and PowerPoint, and Internet navigation
 
-- **Machine Learning** on cloud platforms (AWS)
+- Able to type around 50 wpm
 
+- Proficient in **C++, Autodesk Inventor, VEX, STELLA, Arduino, MATLAB, and Python**
+
+- High fluency in **Mandarin Chinese** (reading, writing, listening, speaking) and **Taiwanese** (listening and speaking)
+
+- Limited proficiency in **Spanish** (reading, listening, speaking), **French** (reading, listening, speaking), and **Korean** (speaking)
+
+- Disciplined physical training and conditioning regiments, courtesy of U.S. Army
 
 
 
@@ -55,10 +58,10 @@ Last updated on `r Sys.Date()`.
 Main
 ================================================================================
 
-Kyle Monahan {#title}
+Victor Kao {#title}
 --------------------------------------------------------------------------------
 
-### Data Analytics student seeking Spring 2020 internship
+### Active Duty U.S. Army Officer, Tufts University Graduate Student, Lincoln Laboratory Military Liaison/Research Intern
 
 
 Education {data-icon=graduation-cap data-concise=true}
@@ -66,20 +69,22 @@ Education {data-icon=graduation-cap data-concise=true}
 
 ### Tufts University
 
-MS Candidate in Data Analysis
+MS Candidate in Innovation and Management (MSIM)
+MS Candidate in Mechanical Engineering
 
 Medford, MA
 
-2014--Current
+2020--Current
 
 
 ### Undergraduate University
 
-B.A. in Finance
+B.S. in Mechanical Engineering with Honors
+Regional Studies Minor - East Asia with Chinese focus
 
-Troy, NY 
+West Point, NY 
 
-2008--2012
+2016--2020
 
 
 

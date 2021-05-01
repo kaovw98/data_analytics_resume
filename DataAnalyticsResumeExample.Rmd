@@ -44,6 +44,10 @@ Skills {#skills}
 
 - Disciplined physical training and conditioning regiments, courtesy of U.S. Army
 
+- 3rd Degree Black Belt in Karate
+
+- Proficiency in Violin, Piano, Guitar
+
 
 
 Disclaimer {#disclaimer}
@@ -77,10 +81,11 @@ Medford, MA
 2020--Current
 
 
-### Undergraduate University
+### United States Military Academy, West Point
 
 B.S. in Mechanical Engineering with Honors
 Regional Studies Minor - East Asia with Chinese focus
+Graduated as Active Duty U.S. Army Aviation Officer
 
 West Point, NY 
 
@@ -91,29 +96,80 @@ West Point, NY
 Research Experience {data-icon=flask}
 --------------------------------------------------------------------------------
 
-### Graduate Research Assistant
+### Military Liaison / Research Intern
 
-Tufts University
+Lincoln Laboratory
 
-Medford, MA
+Lexington, MA
 
-2014--2019
+2020--Current
 
-- Developed research questions 
-- Provided additional guidance for undergraduate mentors
+- Systems and Architectures Group
+- Informed U.S. federal government agencies (to include DoD & DHS) on feasibility of strategic national security and military options
+- Created Concepts of Operation (CONOPS) on employment of strategic national security and military options
+
+
+### Undergraduate Capstone Member
+
+United States Military Academy, West Point
+
+West Point, NY
+
+2019--2020
+
+- Collaborated with the U.S. Army Research Laboratory at Aberdeen Proving Ground, MD 
+- Developed high density, finite element numerical models for modular, undercarriage combat vehicle armor's resistance against improvised explosive devices (IEDs)
+- Successfully fabricated a 3D-printed, down-scaled titanium armor plate that withstood an explosive charge as part of the experimental process
+
+
+### Undergraduate Intern
+
+Applied Research Laboratory at UT Austin
+
+Austin, TX
+
+Jun--Jul 2019
+
+- Analyzed a vertical rotor model's aeroacoustic signatures under realistic indoor ground and wall reflection conditions
+- Developed a calibration standard for a up-scaled companion study involving outdoor ground and wall reflection conditions 
+
+
+### Undergraduate Intern
+
+Aberdeen Test Center, U.S. Army Aberdeen Proving Ground
+
+Aberdeen, MD
+
+Jun--Jul 2018
+
+- Developed experimental procedures for ballistic and explosive tests on DoD vehicles
+- Identified vehicle armor weaknesses, mitigated exploitation points, and improved crew survivability
+
+
+
+### High School Intern
+
+National Institute of Standards and Technology (NIST)
+
+Gaithersburg, MD
+
+Jun--Aug 2015
+
+- Created an anemometric calibration device for the TUrbulent Flow Instrumentation (TFI) Cobra probe
+- Established the functional relationship between voltage readings and corresponding wind pressures
 
 
 
 Selected Project Experience {data-icon=chalkboard-teacher}
 --------------------------------------------------------------------------------
 
-### DATA-200 Foundations of Data Analyics 
+### Tufts Gordon Institute (TGI) MSIM Entrepreneurship Sprint Project
 
 Tufts University
 
 Medford, MA
 
-2016--2018
+Feb--May 2021
 
 <!--::: concise-->
 - Deployed a project which predicted likelihood of house purchase with 89% accuracy on data from Boston in 2019.
